@@ -1,6 +1,5 @@
-# Blogging-Platform
-http://aryan-blog-bucket.s3-website.us-east-2.amazonaws.com/
 # Serverless Blogging Platform
+http://aryan-blog-bucket.s3-website.us-east-2.amazonaws.com/
 
 This project is a serverless blogging platform built using AWS and React. The platform allows users to post blogs and view them.
 
